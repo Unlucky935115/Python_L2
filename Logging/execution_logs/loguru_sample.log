@@ -1,0 +1,6 @@
+2025-04-07 16:14:04.733 | DEBUG    | __main__:logs_sample:8 - This is a DEBUG Message
+2025-04-07 16:14:04.733 | INFO     | __main__:logs_sample:9 - This is a INFO Message
+2025-04-07 16:14:04.733 | SUCCESS  | __main__:logs_sample:10 - This is a SUCCCESS Message
+2025-04-07 16:14:04.733 | WARNING  | __main__:logs_sample:11 - This is a WARNING Message
+2025-04-07 16:14:04.733 | ERROR    | __main__:logs_sample:12 - This is a ERROR Message
+2025-04-07 16:14:04.733 | CRITICAL | __main__:logs_sample:13 - This is a CRITICAL Message
