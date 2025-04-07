@@ -13,3 +13,4 @@ def logs_sample():
     logger.critical("This is a CRITICAL Message")
 
 logs_sample()
+logger.success("Task Complete")
